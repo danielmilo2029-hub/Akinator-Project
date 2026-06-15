@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, caveat;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+.nav {
+    padding: 10px;
+    background-color: white;
+}
+
+.section {
+    margin-top: 20px;
+}
+
+#container {
+    padding: 20px;
+}
+
